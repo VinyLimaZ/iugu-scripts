@@ -1,5 +1,5 @@
 require_relative './sort_person'
-require_relative 'month_days'
+require_relative 'calendar'
 
 class Main
   attr_accessor :year, :month, :day

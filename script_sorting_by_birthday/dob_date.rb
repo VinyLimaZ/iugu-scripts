@@ -1,5 +1,5 @@
 # A class to deal with date based on a date (in this case a dob)
-require_relative 'month_days'
+require_relative 'calendar'
 
 class DobDate
   attr_reader :dob
