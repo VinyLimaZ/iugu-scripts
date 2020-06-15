@@ -3,7 +3,7 @@ require_relative 'month_days'
 
 class DobDate
   attr_reader :dob
-  include MonthDays
+  include Calendar
 
   def initialize(dob)
     @dob = dob
