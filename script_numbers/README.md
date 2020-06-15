@@ -13,7 +13,7 @@ Prime and/or a Esoteric number (Number divided only by 3 AND 5) and/or Cetic (Ev
 `bundle install`
 > if you want only to see if a number is a magic number, skip this step)
 
-`ruby main.rb`
+`ruby main.rb` and follow the instructions!
 
 ### If you want to verify the code: Run the tests!
 

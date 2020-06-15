@@ -28,7 +28,7 @@ describe MagicNumbers do
     end
 
     describe '#cetic?' do
-      it 'returns the opposite of esoteric?' do
+      it 'returns the opposite of #esoteric?' do
         first_20_numbers.each do |number|
           result << MagicNumbers.new(number).cetic?
         end
